@@ -9,7 +9,6 @@ studycase/
 ├── Ojek.java                # Class OOP untuk menghitung biaya ojek
 ├── MainOjek.java            # Program utama versi OOP
 ├── MainOjekProcedural.java  # Program utama versi procedural
-├── StudyCase.md             # Penjelasan studi kasus
 └── README.md                # Dokumentasi ini
 ```
 
